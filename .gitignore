@@ -1,0 +1,6 @@
+# Created by Qoder
+*.pyc
+__pycache__/
+.env
+venv/
+.venv/
